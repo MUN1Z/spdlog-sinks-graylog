@@ -1,0 +1,11 @@
+{
+    "name": "spdlog-sinks-graylog",
+    "version-string": "1.0.0",
+    "description": "A custom spdlog sink for sending logs to Graylog",
+    "homepage": "https://github.com/MUN1Z/spdlog-sinks-graylog",
+    "dependencies": [
+        "asio",
+        "nlohmann-json",
+        "spdlog"
+    ]
+}
